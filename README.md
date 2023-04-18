@@ -25,4 +25,4 @@
 ##Links
 
 * Link to code repository https://github.com/osayenko0315/weather-dashboard
-* Link to published page 
+* Link to published page https://osayenko0315.github.io/weather-dashboard/

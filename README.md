@@ -24,5 +24,5 @@
 
 ##Links
 
-Link to code repository 
+Link to code repository https://github.com/osayenko0315/weather-dashboard
 Link to published page 

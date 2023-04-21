@@ -22,7 +22,7 @@
 * WHEN I click on a city in the search history
 * THEN I am again presented with current and future conditions for that city
 
-##Links
+## Links
 
 * Link to code repository https://github.com/osayenko0315/weather-dashboard
 * Link to published page https://osayenko0315.github.io/weather-dashboard/
